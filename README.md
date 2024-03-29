@@ -16,3 +16,14 @@
 - DP-TrajGAN: A privacy-aware trajectory generation model with differential privacy. **Future Generation Computer Systems, 2023**. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X22004319)]
 - Act2Loc: A Synthetic Trajectory Generation Method by Combining Machine Learning and Mechanistic Models. **IJGIS, 2023**. [[paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2292570)]
 - Generative Models for Synthetic Urban Mobility Data: A Systematic Literature Review. **ACM Computing Surveys, 2023**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3610224)]
+### 2022
+- Activity Trajectory Generation via Modeling Spatiotemporal Dynamics. **KDD, 2022**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3542671)][[code](https://github.com/tsinghua-fib-lab/Activity-Trajectory-Generation)]
+- Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly. **CIKM, 2022**. [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557078)][[code](https://github.com/WonJoon-Yun/GRT-HL)]
+- Factorized deep generative models for end-to-end trajectory generation with spatiotemporal validity constraints. **SIGSPATIAL, 2022**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3557915.3560994)]
+### 2021
+- Generating Mobility Trajectories with Retained Data Utility. **KDD, 2021**. [[paper](https://github.com/caochuntu/KDD2021_guizu)]
+- Large scale gps trajectory generation using map based on two stage gan. **Journal of Data Science, 2021**. [[paper](https://jds-online.org/journal/JDS/article/108/info)][[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
+### 2020
+- Learning to simulate human mobility. **KDD, 2020**. [[paper](https://dl.acm.org/doi/10.1145/3394486.3412862)][[code](https://github.com/FIBLAB/MoveSim)]
+### 2018
+- A non-parametric generative model for human trajectories. **IJCAI, 2018**. [[paper](https://www.ijcai.org/proceedings/2018/0530.pdf)]
