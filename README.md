@@ -1,7 +1,7 @@
 # :snowman: Trajectory-Data-Mining-Paper-Collection
 
 ## :mag: Contents
-[Trajectory Generation](#Trajectory-Generation)
+- [Trajectory Generation](#Trajectory-Generation)
 
 ## Trajectory Generation
 ### 2024
