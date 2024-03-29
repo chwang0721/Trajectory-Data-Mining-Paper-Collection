@@ -1,9 +1,9 @@
 # :snowman: Trajectory-Data-Mining-Paper-Collection
 
 ## :mag: Contents
-[Trajectory Generation](#:bulb:-Trajectory-Generation)
+[Trajectory Generation](#Trajectory-Generation)
 
-## :bulb: Trajectory Generation
+## Trajectory Generation
 ### 2024
 - Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation. **arXiv:2402.07369**. [[paper](https://arxiv.org/pdf/2402.07369.pdf)]
 ### 2023
