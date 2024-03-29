@@ -1,7 +1,7 @@
 # :snowman: Trajectory-Data-Mining-Paper-Collection
 
 ## :mag: Contents
-[Trajectory Generation](https://github.com/ChenhaoWang2000/Trajectory-Data-Mining-Paper-Collection/edit/main/README.md#trajectory-generation)
+[Trajectory Generation](#:bulb:-Trajectory-Generation)
 
 ## :bulb: Trajectory Generation
 ### 2024
