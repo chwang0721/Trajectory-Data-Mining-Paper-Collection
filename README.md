@@ -1,4 +1,4 @@
-# :snowman: Trajectory-Data-Mining-Paper-Collection
+# :panda_face: Trajectory-Data-Mining-Paper-Collection
 
 ## :mag: Contents
 - [Trajectory Generation](#Trajectory-Generation)
