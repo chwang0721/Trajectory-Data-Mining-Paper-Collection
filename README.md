@@ -2,6 +2,7 @@
 
 ## :mag: Contents
 - [Trajectory Generation](#Trajectory-Generation)
+- [Anomalous Trajectory Detection](#Anomalous-Trajectory-Detection)
 
 ## Trajectory Generation
 ### 2024
@@ -27,3 +28,29 @@
 - Learning to simulate human mobility. **KDD, 2020**. [[paper](https://dl.acm.org/doi/10.1145/3394486.3412862)][[code](https://github.com/FIBLAB/MoveSim)]
 ### 2018
 - A non-parametric generative model for human trajectories. **IJCAI, 2018**. [[paper](https://www.ijcai.org/proceedings/2018/0530.pdf)]
+
+## Anomalous Trajectory Detection
+### 2023
+- Open Anomalous Trajectory Recognition via Probabilistic Metric Learning. **IJCAI, 2023**.
+- TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data. **SIGIR, 2023**.
+- Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning. **ICDE, 2023**.
+- Deep unified attention-based sequence modeling for online anomalous trajectory detection. **FGCS, 2023**.
+### 2022
+- DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection. **VLDB, 2022**.
+- Vehicular Trajectory Classification and Traffic Anomaly Detection in Videos Using a Hybrid CNN-VAE Architecture. **TITS, 2022**.
+- Spatial-Temporal-Cost Combination Based Taxi Driving Fraud Detection for Collaborative Internet of Vehicles. **TII, 2022**.
+### 2021
+- Trajectory Outlier Detection: New Problems and Solutions for Smart Cities. **TKDD, 2021**.
+### 2020
+- Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling. **ICDE, 2020**.
+- Coupled IGMM-GANs with Applications to Anomaly Detection in Human Mobility Data. **TSAS, 2020**.
+- Anomalous Trajectory Detection and Classification Based on Difference and Intersection Set Distance. **TVT. 2020**.
+- Trajectory Outlier Detection: Algorithms, Taxonomies, Evaluation, and Open Challenges. **TMIS, 2020**.
+### 2019 and before
+- Spatial-Temporal Recurrent Neural Network for Anomalous Trajectories Detection. **ADMA, 2019**.
+- LoTAD: long-term traffic anomaly detection based on crowdsourced bus trajectory data. **WWWJ, 2018**.
+- Outlier Trajectory Detection: A Trajectory Analytics Based Approach. **DASFAA, 2017**.
+- Feature Grouping-Based Outlier Detection Upon Streaming Trajectories. **TKDE, 2017**.
+- Time-Dependent Popular Routes Based Trajectory Outlier Detection. **WISE 2015**.
+- iBOAT: Isolation-Based Online Anomalous Trajectory Detection. **TITS, 2013**.
+- iBAT: detecting anomalous taxi trajectories from GPS traces. **UbiComp, 2011**.
