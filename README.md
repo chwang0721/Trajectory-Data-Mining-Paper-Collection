@@ -24,9 +24,8 @@
 ### 2021
 - Generating Mobility Trajectories with Retained Data Utility. **KDD, 2021**. [[paper](https://github.com/caochuntu/KDD2021_guizu)]
 - Large scale gps trajectory generation using map based on two stage gan. **Journal of Data Science, 2021**. [[paper](https://jds-online.org/journal/JDS/article/108/info)][[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
-### 2020
+### 2020 and before
 - Learning to simulate human mobility. **KDD, 2020**. [[paper](https://dl.acm.org/doi/10.1145/3394486.3412862)][[code](https://github.com/FIBLAB/MoveSim)]
-### 2018
 - A non-parametric generative model for human trajectories. **IJCAI, 2018**. [[paper](https://www.ijcai.org/proceedings/2018/0530.pdf)]
 
 ## Anomalous Trajectory Detection
