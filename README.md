@@ -6,6 +6,12 @@
 
 ## Trajectory Generation
 ### 2024
+- Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation. **arXiv:2402.14744**. [[paper](https://arxiv.org/pdf/2402.14744)][[code](https://github.com/Wangjw6/LLMob)]
+- MobilityGPT: Enhanced Human Mobility Modeling with a GPT model. **arXiv:2402.03264**. [[paper](https://arxiv.org/pdf/2402.03264)]
+- Simulating human mobility with a trajectory generation framework based on diffusion model. **IJGIS, 2024**. [[paper](https://www.researchgate.net/profile/Chen-Chu-17/publication/378022332_Simulating_human_mobility_with_a_trajectory_generation_framework_based_on_diffusion_model/links/65cc2e5c790074549783cbf7/Simulating-human-mobility-with-a-trajectory-generation-framework-based-on-diffusion-model.pdf)]
+- Synthesizing Human Trajectories Based on Variational Point Processes. **TKDE, 2024**. [[paper](https://ieeexplore.ieee.org/document/10239531)][[code](https://github.com/tsinghua-fib-lab/TrajSynVAE)]
+- Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model. **arXiv:2407.19765**. [[paper](https://arxiv.org/pdf/2407.19765)]
+- ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model. **KDD, 2024**. [[paper](https://arxiv.org/pdf/2404.15380)]
 - Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation. **arXiv:2402.07369**. [[paper](https://arxiv.org/pdf/2402.07369.pdf)]
 ### 2023
 - DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model. **NeurIPS, 2023**. [[paper](https://openreview.net/pdf?id=ykMdzevPkJ)][[code](https://github.com/Yasoz/DiffTraj)]
@@ -22,6 +28,7 @@
 - Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly. **CIKM, 2022**. [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557078)][[code](https://github.com/WonJoon-Yun/GRT-HL)]
 - Factorized deep generative models for end-to-end trajectory generation with spatiotemporal validity constraints. **SIGSPATIAL, 2022**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3557915.3560994)]
 ### 2021
+- TrajVAE: A Variational AutoEncoder model for trajectory generation. **Neurocomputing, 2021**. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312017)]
 - Generating Mobility Trajectories with Retained Data Utility. **KDD, 2021**. [[paper](https://github.com/caochuntu/KDD2021_guizu)]
 - Large scale gps trajectory generation using map based on two stage gan. **Journal of Data Science, 2021**. [[paper](https://jds-online.org/journal/JDS/article/108/info)][[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
 ### 2020 and before
