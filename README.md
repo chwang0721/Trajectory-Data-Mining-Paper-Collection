@@ -36,6 +36,8 @@
 - A non-parametric generative model for human trajectories. **IJCAI, 2018**. [[paper](https://www.ijcai.org/proceedings/2018/0530.pdf)]
 
 ## Anomalous Trajectory Detection
+### 2024
+- Multi-Scale Detection of Anomalous Spatio-Temporal Trajectories in Evolving Trajectory Datasets. **KDD, 2024**.
 ### 2023
 - Open Anomalous Trajectory Recognition via Probabilistic Metric Learning. **IJCAI, 2023**.
 - TripSafe: Retrieving Safety-related Abnormal Trips in Real-time with Trajectory Data. **SIGIR, 2023**.
