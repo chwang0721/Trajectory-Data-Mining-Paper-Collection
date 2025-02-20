@@ -5,14 +5,21 @@
 - [Anomalous Trajectory Detection](#Anomalous-Trajectory-Detection)
 
 ## Trajectory Generation
+### 2025
+- Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation. **WWW 2025**. [[paper](https://openreview.net/pdf?id=L6I2KSXiPN)]
 ### 2024
-- Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation. **arXiv:2402.14744**. [[paper](https://arxiv.org/pdf/2402.14744)][[code](https://github.com/Wangjw6/LLMob)]
+- WildGraph: Realistic Long-Horizon Trajectory Generation with Limited Sample Size. **SIGSPATIAL, 2025**. [[paper](https://dl.acm.org/doi/abs/10.1145/3678717.3691265)][[code]](https://github.com/aliwister/wildgraph).
+- G2Vec: Spatial-Temporal Trajectory Generation Network based on Multi-Resolution Feature Correlation. **IJCNN, 2024**. [[paper](https://ieeexplore.ieee.org/abstract/document/10650806)]
+- DPTraj-PM: Differentially Private Trajectory Synthesis Using Prefix Tree and Markov Process. **arXiv:2404.14106**. [[paper](https://arxiv.org/pdf/2404.14106)][[code](https://github.com/wnn5/DP-PrefixTreeMarkov)]
+- Controllable Human Trajectory Generation Using Profile-Guided Latent Diffusion. **TKDD, 2024**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3701736)][[code](https://github.com/tsinghua-fib-lab/User-Profile-Guided-Latent-Diffusion)]
+- Beyond imitation: Generating human mobility from context-aware reasoning with large language models. **arXiv:2402.09836**. [[paper](https://arxiv.org/pdf/2402.09836)]
+- Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation. **NeurIPS, 2024**. [[paper](https://arxiv.org/pdf/2402.14744)][[code](https://github.com/Wangjw6/LLMob)]
 - MobilityGPT: Enhanced Human Mobility Modeling with a GPT model. **arXiv:2402.03264**. [[paper](https://arxiv.org/pdf/2402.03264)]
 - Simulating human mobility with a trajectory generation framework based on diffusion model. **IJGIS, 2024**. [[paper](https://www.researchgate.net/profile/Chen-Chu-17/publication/378022332_Simulating_human_mobility_with_a_trajectory_generation_framework_based_on_diffusion_model/links/65cc2e5c790074549783cbf7/Simulating-human-mobility-with-a-trajectory-generation-framework-based-on-diffusion-model.pdf)]
 - Synthesizing Human Trajectories Based on Variational Point Processes. **TKDE, 2024**. [[paper](https://ieeexplore.ieee.org/document/10239531)][[code](https://github.com/tsinghua-fib-lab/TrajSynVAE)]
 - Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model. **arXiv:2407.19765**. [[paper](https://arxiv.org/pdf/2407.19765)]
 - ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model. **KDD, 2024**. [[paper](https://arxiv.org/pdf/2404.15380)]
-- Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation. **arXiv:2402.07369**. [[paper](https://arxiv.org/pdf/2402.07369.pdf)]
+- Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation. **TKDE, 2024**. [[paper](https://arxiv.org/pdf/2402.07369.pdf)]
 ### 2023
 - DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model. **NeurIPS, 2023**. [[paper](https://openreview.net/pdf?id=ykMdzevPkJ)][[code](https://github.com/Yasoz/DiffTraj)]
 - SynMob: Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis. **NeurIPS, 2023 (dataset and benchmark)**. [[paper](https://openreview.net/pdf?id=oz4AGs0phP)][[code](https://github.com/Yasoz/SynMob)]
@@ -24,6 +31,8 @@
 - Act2Loc: A Synthetic Trajectory Generation Method by Combining Machine Learning and Mechanistic Models. **IJGIS, 2023**. [[paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2292570)]
 - Generative Models for Synthetic Urban Mobility Data: A Systematic Literature Review. **ACM Computing Surveys, 2023**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3610224)]
 ### 2022
+- Generation of synthetic urban vehicle trajectories. **Big Data 2022**. [[paper](https://drive.google.com/file/d/1NEKZGhilyNiM9QBhWTCzBsmbnQJVUMAQ/view)]
+- A deep generative model for trajectory modeling and utilization. **VLDB, 2022**. [[paper](https://www.vldb.org/pvldb/vol16/p973-li.pdf)][[code](https://github.com/wangyong01/MTNet_Code)]
 - Activity Trajectory Generation via Modeling Spatiotemporal Dynamics. **KDD, 2022**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3542671)][[code](https://github.com/tsinghua-fib-lab/Activity-Trajectory-Generation)]
 - Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly. **CIKM, 2022**. [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557078)][[code](https://github.com/WonJoon-Yun/GRT-HL)]
 - Factorized deep generative models for end-to-end trajectory generation with spatiotemporal validity constraints. **SIGSPATIAL, 2022**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3557915.3560994)]
