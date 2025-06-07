@@ -8,7 +8,7 @@
 ### 2025
 - Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation. **WWW 2025**. [[paper](https://openreview.net/pdf?id=L6I2KSXiPN)]
 ### 2024
-- WildGraph: Realistic Long-Horizon Trajectory Generation with Limited Sample Size. **SIGSPATIAL, 2025**. [[paper](https://dl.acm.org/doi/abs/10.1145/3678717.3691265)][[code]](https://github.com/aliwister/wildgraph).
+- WildGraph: Realistic Long-Horizon Trajectory Generation with Limited Sample Size. **SIGSPATIAL, 2024**. [[paper](https://dl.acm.org/doi/abs/10.1145/3678717.3691265)][[code]](https://github.com/aliwister/wildgraph).
 - G2Vec: Spatial-Temporal Trajectory Generation Network based on Multi-Resolution Feature Correlation. **IJCNN, 2024**. [[paper](https://ieeexplore.ieee.org/abstract/document/10650806)]
 - DPTraj-PM: Differentially Private Trajectory Synthesis Using Prefix Tree and Markov Process. **arXiv:2404.14106**. [[paper](https://arxiv.org/pdf/2404.14106)][[code](https://github.com/wnn5/DP-PrefixTreeMarkov)]
 - Controllable Human Trajectory Generation Using Profile-Guided Latent Diffusion. **TKDD, 2024**. [[paper](https://dl.acm.org/doi/pdf/10.1145/3701736)][[code](https://github.com/tsinghua-fib-lab/User-Profile-Guided-Latent-Diffusion)]
