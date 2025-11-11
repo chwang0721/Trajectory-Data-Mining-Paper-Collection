@@ -6,7 +6,11 @@
 
 ## Trajectory Generation
 ### 2025
-- Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation. **WWW 2025**. [[paper](https://openreview.net/pdf?id=L6I2KSXiPN)]
+- GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation. **arXiv, 2025**. [[paper](https://arxiv.org/pdf/2510.07735)]
+- Leveraging the Spatial Hierarchy: Coarse-to-fine Trajectory Generation via Cascaded Hybrid Diffusion. **arXiv, 2025**. [[paper](https://arxiv.org/abs/2507.13366)][[code](https://github.com/urban-mobility-generation/Cardiff)]
+- Geo-Llama: Leveraging LLMs for Human Mobility  Trajectory Generation with Constraints. **MDM, 2025**. [[paper](https://arxiv.org/pdf/2408.13918)][[code](https://github.com/Emory-AIMS/Geo-Llama)]
+- Seed: Bridging Sequence and Diffusion Models for Road Trajectory Generation. **WWW, 2025**. [[paper](https://dl.acm.org/doi/10.1145/3696410.3714951)][[code](https://github.com/kevin-xuan/Seed)]
+- MA2Traj: Diffusion network with multi-attribute aggregation for trajectory generation. **GeoInformatica, 2025**. [[paper](https://doi.org/10.1007/s10707-025-00549-9)]
 ### 2024
 - WildGraph: Realistic Long-Horizon Trajectory Generation with Limited Sample Size. **SIGSPATIAL, 2024**. [[paper](https://dl.acm.org/doi/abs/10.1145/3678717.3691265)][[code]](https://github.com/aliwister/wildgraph).
 - G2Vec: Spatial-Temporal Trajectory Generation Network based on Multi-Resolution Feature Correlation. **IJCNN, 2024**. [[paper](https://ieeexplore.ieee.org/abstract/document/10650806)]
@@ -45,6 +49,8 @@
 - A non-parametric generative model for human trajectories. **IJCAI, 2018**. [[paper](https://www.ijcai.org/proceedings/2018/0530.pdf)]
 
 ## Anomalous Trajectory Detection
+### 2025
+- Towards Trajectory Anomaly Detection: a Fine-Grained and Noise-Resilient Framework. **KDD, 2025**.
 ### 2024
 - Multi-Scale Detection of Anomalous Spatio-Temporal Trajectories in Evolving Trajectory Datasets. **KDD, 2024**.
 ### 2023
